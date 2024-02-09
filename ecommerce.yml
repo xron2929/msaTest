@@ -1,5 +1,5 @@
-token:
-  expiration_time: 007
-  secret: user_token_custom007
+:token:
+  expiration_time: 008
+  secret: user_token_custom008
 gateway:
   ip: 192.168.0.8
