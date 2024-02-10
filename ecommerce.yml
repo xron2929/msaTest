@@ -1,5 +1,5 @@
 token:
-  expiration_time: 300
-  secret: user_token_custom3
+  expiration_time: 400
+  secret: user_token_custom4
 gateway:
   ip: 192.168.0.8
