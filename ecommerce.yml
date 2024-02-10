@@ -1,5 +1,5 @@
 :token:
-  expiration_time: 1000
-  secret: user_token_custom10
+  expiration_time: 100
+  secret: user_token_custom1
 gateway:
   ip: 192.168.0.8
